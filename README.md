@@ -59,16 +59,3 @@
 
 
 ------
-
-
-
-### 推荐阅读：
-
-> ##### [学习Django😀](https://github.com/epover/LearnDjango)
->
-> ##### [学习Git和GitHub🤩](https://github.com/epover/Learn_GitHub)
->
-> ##### [学习WebService😍](https://github.com/epover/WebService) 
->
-> ##### **[Angular团队提交规范👍](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#-git-commit-guidelines)**
-
