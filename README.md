@@ -1,5 +1,3 @@
-## JavaScript
-
 ![](file_img/js_06.png)
 
 - JavaScript是一种运行在浏览器中的解释型的编程语言。
